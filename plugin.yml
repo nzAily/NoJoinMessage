@@ -1,0 +1,5 @@
+name: NoJoinMessage
+version: 1.0.0
+main: Sedircraft\Main
+api: 5.0.0
+author: Sedircraft
